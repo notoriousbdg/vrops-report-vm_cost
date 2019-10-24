@@ -3,7 +3,7 @@
 
 This is a collection of VM Cost showback reports for [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html).  These reports can be used to show the costs for VMs by running the report on any object that is a parent of VMs.  Additional reports are available to show VM Cost grouped by Application, Business Group, Cloud Zone, Cluster, Datacenter, Department, Environment, Function, Location, Organization, Project, Reservation, Tenant, and VM Folder.
 
-![VM Cost Showback Reports](https://raw.githubusercontent.com/notoriousbdg/vrops-report-vm_cost/master/Dashboard.png)
+![VM Cost Showback Reports](https://raw.githubusercontent.com/notoriousbdg/vrops-report-vm_cost/master/Report.png)
 
 
 ## Installation
