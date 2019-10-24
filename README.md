@@ -7,7 +7,7 @@ This is a collection of VM Cost showback reports for [vRealize Operations](https
 
 
 ## Installation
-1. Import the dashboard at `Dashboards` / `Reports` / `Actions` / `Import template`  
+1. Import the report at `Dashboards` / `Reports` / `Actions` / `Import template`  
 ![Import template...](https://raw.githubusercontent.com/notoriousbdg/vrops-report-vm_cost/master/Import_Report.png)
 2. Click `Browse...` then select the file named [Reports - VM Cost.zip](https://github.com/notoriousbdg/vrops-report-vm_cost/raw/master/Reports%20-%20VM%20Cost.zip)
 3. The reports should now be available in in the reports list  
@@ -15,6 +15,6 @@ This is a collection of VM Cost showback reports for [vRealize Operations](https
 
 
 ## Support
-This dashboard requires vRealize Operation 8.0 Advanced or Enterprise edition.
+This report requires vRealize Operation 8.0 Advanced or Enterprise edition.
 
 Please open an [issue](https://github.com/notoriousbdg/vrops-report-vm_cost/issues) for feedback.
